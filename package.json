@@ -84,7 +84,7 @@
     "glob": "^7.1.2",
     "istanbul-lib-coverage": "^2.0.0",
     "istanbul-lib-hook": "^2.0.0",
-    "istanbul-lib-instrument": "https://git@github.com:poetapp/istanbul-lib-instrument.git",
+    "istanbul-lib-instrument": "https://github.com/poetapp/istanbul-lib-instrument.git",
     "istanbul-lib-report": "^2.0.0",
     "istanbul-lib-source-maps": "^2.0.0",
     "istanbul-reports": "^1.5.0",
